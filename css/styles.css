@@ -1,7 +1,22 @@
-h1 {
+body {
+  background-color: black;
+  color: aqua;
+}
+
+  h1 {
   text-align: center;
   text-decoration: underline;
   margin-top: 2%;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+p {
+  font-family: sans-serif;
+  font-weight: 600;
+  padding: 10px;
 }
 
 #roos, #pugs, #babs {
@@ -11,4 +26,6 @@ h1 {
 #kangaroo, #puggy, #baboon {
   max-width: 200px;
   margin: 1%;
+  border-style: solid;
+  padding: 2px;
 }
