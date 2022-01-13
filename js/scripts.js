@@ -1,4 +1,4 @@
-$(document).ready(function(event) {
+$(document).ready(function() {
   $("#kangaroo").click(function() {
     $("#roos").slideToggle();
     $("#pugs").hide();
