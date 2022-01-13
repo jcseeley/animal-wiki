@@ -1,5 +1,15 @@
 $(document).ready(function() {
-  $("#kangaroo").click(function() {
+  const animal = prompt("Kangaroo, pug, or baboon?");
+
+  if (animal === "kangaroo") {
+    $("#roos").show();
+  } else if (animal === "pug") {
+    $("#pugs").show(); 
+  } else if (animal === "baboon") {
+    $("#babs").show();
+  } 
+
+$("#kangaroo").click(function() {
     $("#roos").slideToggle();
     $("#pugs").hide();
     $("#babs").hide();

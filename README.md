@@ -1,6 +1,6 @@
 # Animal Wiki
 
-#### By Jase Seeley
+#### By Jase Seeley, Jessica Baker
 
 #### Fun 'facts' about your favorite animals!
 
@@ -33,4 +33,4 @@ Click one of the images to display more information. Click it again to hide it.
 
 MIT
 
-Copyright (c) 2022 Jase Seeley
+Copyright (c) 2022 Jase Seeley, Jessica Baker
