@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  margin-top: 2%;
+}
+
+#roos, #pugs, #babs {
+  display: none;
+}
+
+#kangaroo, #puggy, #baboon {
+  max-width: 200px;
+  margin: 1%;
+}
